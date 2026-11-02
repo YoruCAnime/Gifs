@@ -19,19 +19,19 @@ Five bio headers for Draww. Pick a number. Each is 660 px wide (`img660`), same 
 
 # More of the Cinematic one
 
-Sharper, fuller colour, each a short story. 660 px wide (`img660`).
+Each tells its own short story; no scene appears in more than one. 660 px wide (`img660`).
 
-## C1 - Their Story
-![C1 Their Story](fragrant-c1-their-story.gif)
+## C1 - Spring
+![C1 Spring](fragrant-cinematic-1-spring.gif)
 
-## C2 - Night by the Sea
-![C2 Night by the Sea](fragrant-c2-night-sea.gif)
+## C2 - Night
+![C2 Night](fragrant-cinematic-2-night.gif)
 
 ## C3 - Glances
-![C3 Glances](fragrant-c3-glances.gif)
+![C3 Glances](fragrant-cinematic-3-glances.gif)
 
-## C4 - Bright Days
-![C4 Bright Days](fragrant-c4-bright-days.gif)
+## C4 - The Cake Shop
+![C4 The Cake Shop](fragrant-cinematic-4-cake-shop.gif)
 
 ## C5 - Opening
-![C5 Opening](fragrant-c5-opening.gif)
+![C5 Opening](fragrant-cinematic-5-opening.gif)
